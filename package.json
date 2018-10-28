@@ -1,7 +1,7 @@
 {
   "name": "map_ops",
   "version": "0.1.0",
-  "homepage" : "https://dnivra26.github.io/mapsops",
+  "homepage" : "https://dnivra26.github.io/mapops/",
   "private": true,
   "dependencies": {
     "react": "^16.6.0",
