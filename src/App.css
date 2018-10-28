@@ -1,0 +1,13 @@
+.App {
+  height: 100vh;
+  display: flex;
+}
+
+.Controls {
+  flex: 0.1;
+  margin: 5px;
+}
+
+.MyMap {
+  flex: 0.9;
+}
